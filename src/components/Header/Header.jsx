@@ -8,6 +8,7 @@ const Header = () => {
             <Link className='mx-2 hover:bg-amber-600 font-bold p-2' to='/'>Order Review</Link>
             <Link className='mx-2 hover:bg-amber-600 font-bold p-2' to='/'>About</Link>
             <Link className='mx-2 hover:bg-amber-600 font-bold p-2' to='/'>Contact</Link>
+            <Link className='mx-2 hover:bg-amber-600 font-bold p-2' to='/grandpa'>Dada</Link>
         </nav>
     );
 };
